@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ns-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tdermendjiev/ns-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "956ad72dd68688a3abc5e4625c18dad2ce003d7d"
+      }
+    },
+    {
+      "identity" : "nsui-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tdermendjiev/nsui-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7c06e797c783a04c4f4658ec34aa5ddec8191abc"
+      }
+    }
+  ],
+  "version" : 2
+}

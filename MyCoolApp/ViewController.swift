@@ -6,7 +6,8 @@
 //
 
 import UIKit
-import NativeScriptSDK
+import NativeScript
+import NativeScriptSource
 
 class ViewController: UIViewController {
     
